@@ -74,13 +74,13 @@ export default function Home({ users }: any) {
             style={{ height: "100%", width: "100%" }}
           >
             <div>
-              <img src="https://erolrulmanhirdavat.com/wp-content/uploads/2020/07/Erol-rulman-ve-teknik-h%C4%B1rdavat-2.png" />
+              <img src="/assets/images/slider-img.jpg" />
             </div>
             <div>
-              <img src="https://erolrulmanhirdavat.com/wp-content/uploads/2020/07/Erol-rulman-ve-teknik-h%C4%B1rdavat-2.png" />
+              <img src="/assets/images/slider-img.jpg" />
             </div>
             <div>
-              <img src="https://erolrulmanhirdavat.com/wp-content/uploads/2020/07/Erol-rulman-ve-teknik-h%C4%B1rdavat-2.png" />
+              <img src="/assets/images/slider-img.jpg" />
             </div>
           </AwesomeSlider>
         </div>
